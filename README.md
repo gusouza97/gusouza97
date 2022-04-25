@@ -1,5 +1,4 @@
-<h2>Olá, seja bem-vindo ao meu Github!</h2>
-<br>
+<h2 margin-bottom="10px">Olá, seja bem-vindo ao meu Github!</h2>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
