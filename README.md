@@ -1,12 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<h2>Olá, seja bem-vindo ao meu Github!</h2>
 
 <p align="left"> 
-  Olá, seja bem-vindo ao meu Github!<br><br>
-
   Sou Desenvolvedor Web Full-stack e atualmente busco por oportunidades como Júnior.
 </p>
 
-  
 <p align="left">
   🎓 Graudação: <strong>Bacharelado em Ciência da Computação.</strong>
 </p>
